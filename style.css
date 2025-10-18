@@ -1,0 +1,30 @@
+h1 {
+    color: blanchedalmond
+}
+
+body {
+    background-color: gray
+}
+
+
+#vttcontour {
+    width: 800px;
+    margin: 0 auto;
+    background-color: lightgray;
+    text-align: center;
+    align-content: center;
+}
+
+#vttstyle {
+    border: 5px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: darkblue;
+}
+
+ul li {
+    list-style: none;
+}
